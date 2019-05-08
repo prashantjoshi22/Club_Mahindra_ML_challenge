@@ -1,0 +1,13 @@
+The complete competation was revolving around creating the features from the data set
+Features created
+	1) Day,month,year from the checkin date
+	2)Number of weekend falling during the trip
+	3)Seasons were extracted during the check in date
+	4)Is the person was travelling in same state or not
+	5)Giving rating to a particular resort
+	6)yearly visit number of a particular member
+	7)Date difference between booking date and checkin date
+	8)Child to person ratio
+
+All the catagorical features were converted into polynomial encoging
+LightGBM is used to train the model
